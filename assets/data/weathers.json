@@ -1,0 +1,38 @@
+[
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lastUpdated": "2023-10-26 09:00",
+    "tempC": 29,
+    "tempF": 84.2,
+    "feelsLikeC": 34.7,
+    "feelsLikeF": 94.4,
+    "windKph": 13,
+    "windMph": 8.1,
+    "humidity": 84,
+    "uv": 6,
+    "condition": {
+      "text": "Partly cloudy",
+      "icon": "https://cdn.weatherapi.com/weather/128x128/day/116.png",
+      "code": 1003
+    }
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "lastUpdated": "2023-10-26 04:15",
+    "tempC": 22.5,
+    "tempF": 63.5,
+    "feelsLikeC": 20.3,
+    "feelsLikeF": 65.4,
+    "windKph": 6.8,
+    "windMph": 8.0,
+    "humidity": 98,
+    "uv": 1,
+    "condition": {
+      "text": "Moderate rain at times",
+      "icon": "https://cdn.weatherapi.com/weather/128x128/day/116.png",
+      "code": 1003
+    }
+  }
+]
