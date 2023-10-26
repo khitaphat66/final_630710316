@@ -32,7 +32,7 @@
     "condition": {
       "text": "Moderate rain at times",
       "icon": "https://cdn.weatherapi.com/weather/128x128/day/116.png",
-      "code": 1003
+      "code": 1004
     }
   }
 ]
